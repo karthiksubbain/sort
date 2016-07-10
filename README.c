@@ -31,3 +31,4 @@ public class sort {
 
 	public final static Scanner STDIN_SCANNER = new Scanner(System.in);
 }
+ 
